@@ -1,0 +1,17 @@
+.formRow {
+  z-index: 100;
+  width: 100%;
+  justify-content: center;
+
+  .searchInput {
+    font-size: 2rem;
+    width: 50%;
+    padding: 2.5rem;
+  }
+
+  button {
+    font-size: 2.9rem;
+    margin-left: 1rem;
+    width: 12%;
+  }
+}
